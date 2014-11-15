@@ -1,1 +1,1 @@
-This is the README for the Terrain project
+First Assignment for Game Design class in Unity. The assignment was to build a small terrain 
